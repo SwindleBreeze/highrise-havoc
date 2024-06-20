@@ -1,0 +1,711 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\controllers\\overseercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\controllers\\overseercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\renderers\\buttonrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\renderers\\buttonrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\renderers\\highriseattachmentrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\renderers\\highriseattachmentrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\controllers\\buttoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\controllers\\buttoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\controllers\\collisioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\controllers\\collisioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\controllers\\minecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\controllers\\minecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\controllers\\distancecheckcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\controllers\\distancecheckcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\controllers\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\controllers\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\controllers\\soldiercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\controllers\\soldiercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\controllers\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\controllers\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\controllers\\enemyplanecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\controllers\\enemyplanecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\renderers\\enemyplanerenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\renderers\\enemyplanerenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\renderers\\minerenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\renderers\\minerenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\entities\\highrise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\entities\\highrise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\entities\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\entities\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\renderers\\projectilerenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\renderers\\projectilerenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\controllers\\projectilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\controllers\\projectilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\controllers\\physicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\controllers\\physicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\renderers\\enemyrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\renderers\\enemyrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\controllers\\inputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\controllers\\inputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\controllers\\soundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\controllers\\soundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\controllers\\obstaclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\controllers\\obstaclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\entities\\mine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\entities\\mine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\controllers\\soldierspawnpointcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\controllers\\soldierspawnpointcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\renderers\\soldierrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\renderers\\soldierrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\renderers\\soldierspawnpointrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\renderers\\soldierspawnpointrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\controllers\\highrisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\controllers\\highrisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\renderers\\obstaclerenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\renderers\\obstaclerenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\entities\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\entities\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\controllers\\techtreecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\controllers\\techtreecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\extensions\\spritebatchextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\extensions\\spritebatchextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\renderers\\highriselevelrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\renderers\\highriselevelrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\entities\\highriselevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\entities\\highriselevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\entities\\highriseattachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\entities\\highriseattachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\highrisehavoc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\highrisehavoc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\renderers\\highriserenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\renderers\\highriserenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\resources\\values\\strings.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\resources\\values\\strings.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\helpers\\helpermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\helpers\\helpermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|c:\\users\\edine\\onedrive\\documents\\faks\\tinr\\highrisehavoc\\highrisehavoc\\source\\entities\\soldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CA67B-3E37-443E-A25F-BE5988413633}|highrisehavoc\\highrisehavoc.csproj|solutionrelative:highrisehavoc\\source\\entities\\soldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Game1.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Game1.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Game1.cs",
+              "RelativeToolTip": "highrisehavoc\\Game1.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-18T16:19:16.873Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HighriseController.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Controllers\\HighriseController.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Controllers\\HighriseController.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Controllers\\HighriseController.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Controllers\\HighriseController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAewE0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-24T09:39:14.998Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Controllers\\GameController.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Controllers\\GameController.cs",
+              "ViewState": "AQIAAAQDAAAAAAAAAAAAABgDAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-02T11:01:41.668Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MineRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Renderers\\MineRenderer.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Renderers\\MineRenderer.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Renderers\\MineRenderer.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Renderers\\MineRenderer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA1wCQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:37:37.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SoldierSpawnPointController.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Controllers\\SoldierSpawnPointController.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Controllers\\SoldierSpawnPointController.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Controllers\\SoldierSpawnPointController.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Controllers\\SoldierSpawnPointController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAADwvzEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T15:48:11.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SoldierController.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Controllers\\SoldierController.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Controllers\\SoldierController.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Controllers\\SoldierController.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Controllers\\SoldierController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAkwDsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-17T07:34:08.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SoldierRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Renderers\\SoldierRenderer.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Renderers\\SoldierRenderer.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Renderers\\SoldierRenderer.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Renderers\\SoldierRenderer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-17T07:33:47.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MineController.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Controllers\\MineController.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Controllers\\MineController.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Controllers\\MineController.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Controllers\\MineController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwEEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T11:32:06.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ButtonRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Renderers\\ButtonRenderer.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Renderers\\ButtonRenderer.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Renderers\\ButtonRenderer.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Renderers\\ButtonRenderer.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwCMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:50:35.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OverseerController.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Controllers\\OverseerController.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Controllers\\OverseerController.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Controllers\\OverseerController.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Controllers\\OverseerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:57:00.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EnemyPlaneRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Renderers\\EnemyPlaneRenderer.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Renderers\\EnemyPlaneRenderer.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Renderers\\EnemyPlaneRenderer.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Renderers\\EnemyPlaneRenderer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:33:28.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Controllers\\EnemyController.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Controllers\\EnemyController.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Controllers\\EnemyController.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Controllers\\EnemyController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAEwB4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:29:31.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Mine.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Entities\\Mine.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Entities\\Mine.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Entities\\Mine.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Entities\\Mine.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T13:17:26.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EnemyRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Renderers\\EnemyRenderer.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Renderers\\EnemyRenderer.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Renderers\\EnemyRenderer.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Renderers\\EnemyRenderer.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAewBkAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T10:07:48.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ObstacleRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Renderers\\ObstacleRenderer.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Renderers\\ObstacleRenderer.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Renderers\\ObstacleRenderer.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Renderers\\ObstacleRenderer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T10:18:54.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SoldierSpawnPointRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Renderers\\SoldierSpawnPointRenderer.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Renderers\\SoldierSpawnPointRenderer.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Renderers\\SoldierSpawnPointRenderer.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Renderers\\SoldierSpawnPointRenderer.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwBAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T10:22:32.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Controllers\\MenuController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAqwC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T16:32:07.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UIController.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Controllers\\UIController.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Controllers\\UIController.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Controllers\\UIController.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Controllers\\UIController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAASwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T16:30:17.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SoundController.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Controllers\\SoundController.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Controllers\\SoundController.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Controllers\\SoundController.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Controllers\\SoundController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T09:36:53.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TechTreeController.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Controllers\\TechTreeController.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Controllers\\TechTreeController.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Controllers\\TechTreeController.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Controllers\\TechTreeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T11:06:56.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EnemyPlaneController.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Controllers\\EnemyPlaneController.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Controllers\\EnemyPlaneController.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Controllers\\EnemyPlaneController.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Controllers\\EnemyPlaneController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T11:06:57.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SpriteBatchExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Extensions\\SpriteBatchExtensions.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Extensions\\SpriteBatchExtensions.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Extensions\\SpriteBatchExtensions.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Extensions\\SpriteBatchExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T10:21:16.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "HighriseLevel.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Entities\\HighriseLevel.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Entities\\HighriseLevel.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Entities\\HighriseLevel.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Entities\\HighriseLevel.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAArwCcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T09:20:26.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "InputController.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Controllers\\InputController.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Controllers\\InputController.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Controllers\\InputController.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Controllers\\InputController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAMwBgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T10:07:37.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ButtonController.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Controllers\\ButtonController.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Controllers\\ButtonController.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Controllers\\ButtonController.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Controllers\\ButtonController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T11:32:09.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Highrise.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Entities\\Highrise.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Entities\\Highrise.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Entities\\Highrise.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Entities\\Highrise.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T15:25:32.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HighriseLevelRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Renderers\\HighriseLevelRenderer.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Renderers\\HighriseLevelRenderer.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Renderers\\HighriseLevelRenderer.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Renderers\\HighriseLevelRenderer.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCAAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T15:32:12.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "HighriseAttachment.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Entities\\HighriseAttachment.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Entities\\HighriseAttachment.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Entities\\HighriseAttachment.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Entities\\HighriseAttachment.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAlwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T09:21:11.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "highrisehavoc",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\highrisehavoc.csproj",
+              "RelativeDocumentMoniker": "highrisehavoc\\highrisehavoc.csproj",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\highrisehavoc.csproj",
+              "RelativeToolTip": "highrisehavoc\\highrisehavoc.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-21T15:20:54.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Strings.xml",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Resources\\Values\\Strings.xml",
+              "RelativeDocumentMoniker": "highrisehavoc\\Resources\\Values\\Strings.xml",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Resources\\Values\\Strings.xml",
+              "RelativeToolTip": "highrisehavoc\\Resources\\Values\\Strings.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-03-18T15:46:53.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HighriseAttachmentRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Renderers\\HighriseAttachmentRenderer.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Renderers\\HighriseAttachmentRenderer.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Renderers\\HighriseAttachmentRenderer.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Renderers\\HighriseAttachmentRenderer.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAACQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T15:01:47.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "HelperMethods.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Helpers\\HelperMethods.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Helpers\\HelperMethods.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Helpers\\HelperMethods.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Helpers\\HelperMethods.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T11:32:13.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "HighriseRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Renderers\\HighriseRenderer.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Renderers\\HighriseRenderer.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Renderers\\HighriseRenderer.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Renderers\\HighriseRenderer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T11:22:57.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "highrisehavoc\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\AndroidManifest.xml",
+              "RelativeToolTip": "highrisehavoc\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-03-18T15:51:50.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProjectileRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Renderers\\ProjectileRenderer.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Renderers\\ProjectileRenderer.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Renderers\\ProjectileRenderer.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Renderers\\ProjectileRenderer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAASwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T09:24:07.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CollisionController.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Controllers\\CollisionController.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Controllers\\CollisionController.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Controllers\\CollisionController.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Controllers\\CollisionController.cs",
+              "ViewState": "AQIAALMAAAAAAAAAAAAIwMkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T09:36:23.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PhysicsController.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Controllers\\PhysicsController.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Controllers\\PhysicsController.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Controllers\\PhysicsController.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Controllers\\PhysicsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:28:18.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProjectileController.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Controllers\\ProjectileController.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Controllers\\ProjectileController.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Controllers\\ProjectileController.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Controllers\\ProjectileController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowFsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:18:23.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ObstacleController.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Controllers\\ObstacleController.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Controllers\\ObstacleController.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Controllers\\ObstacleController.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Controllers\\ObstacleController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAmwDMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T10:17:25.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DistanceCheckController.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Controllers\\DistanceCheckController.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Controllers\\DistanceCheckController.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Controllers\\DistanceCheckController.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Controllers\\DistanceCheckController.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAnwK8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:00:33.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Entities\\Projectile.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Entities\\Projectile.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Entities\\Projectile.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Entities\\Projectile.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCAAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:18:07.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Obstacle.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Entities\\Obstacle.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Entities\\Obstacle.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Entities\\Obstacle.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Entities\\Obstacle.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA0wBMAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T10:18:31.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Soldier.cs",
+              "DocumentMoniker": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Entities\\Soldier.cs",
+              "RelativeDocumentMoniker": "highrisehavoc\\Source\\Entities\\Soldier.cs",
+              "ToolTip": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\Source\\Entities\\Soldier.cs",
+              "RelativeToolTip": "highrisehavoc\\Source\\Entities\\Soldier.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAIwGQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:06:28.558Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

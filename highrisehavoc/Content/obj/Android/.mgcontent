@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Android</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/AA_Hands_back.PNG</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/AA_Hands_front.PNG</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/AA_Launcher.PNG</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/AA_Rocket.PNG</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/ar10.wav</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/Arial.spritefont</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/Bullet1.PNG</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/deployment-border.png</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/Enemy bullet1.PNG</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/FIghter_jet.PNG</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/game-over.png</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/Gun1_hands1_idle.PNG</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/Gun1_hands1_shooting.PNG</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/Gun1.PNG</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/Gun2.PNG</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/Hands2_gun2_idle.PNG</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/Hands2_gun2_shooting.PNG</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/Head1.PNG</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/Head2.PNG</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/HeadAA.PNG</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/Highrise_balcony.PNG</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/Highrise_level.PNG</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/Highrise.PNG</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/HighRiseHavocTitle.png</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/Jet_rocket_explosion.PNG</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/Jet_rocket.PNG</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/Mine.PNG</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/Obstacle_1.PNG</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/pause_button.png</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/plus-sign-soldier.png</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/plus-sign.png</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/road.png</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/simple_button.png</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/space-laser-38082-echo.wav</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/space-laser-38082-short.wav</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/spritesheet.png</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/spritesheet2.png</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/Torso1_Crouch.PNG</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/Torso1.PNG</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/Torso2_run.PNG</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/Torso2.PNG</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/TorsoAA.PNG</File>
+    <File>C:/Users/edine/OneDrive/Documents/Faks/TINR/highrisehavoc/highrisehavoc/Content/War.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

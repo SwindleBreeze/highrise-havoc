@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/2jT/5vDA3hmJPjOzLVg0jlhg3HoxtlgURt/A5uHd1zT7hevcIf9ZdbD3wvB9YnXbm4EG/mk4lJ7GAMuDOeVuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\edine\\OneDrive\\Documents\\Faks\\TINR\\highrisehavoc\\highrisehavoc\\highrisehavoc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edine\\.nuget\\packages\\microsoft.net.illink.analyzers\\7.0.100-1.23211.1\\microsoft.net.illink.analyzers.7.0.100-1.23211.1.nupkg.sha512",
+    "C:\\Users\\edine\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23211.1\\microsoft.net.illink.tasks.7.0.100-1.23211.1.nupkg.sha512",
+    "C:\\Users\\edine\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\edine\\.nuget\\packages\\monogame.framework.android\\3.8.1.303\\monogame.framework.android.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
